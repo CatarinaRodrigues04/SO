@@ -1,0 +1,6 @@
+user-id: 101 | command-id: 8614 | duration: 5.0017 s
+user-id: 102 | command-id: 8615 | duration: 5.0020 s
+user-id: 103 | command-id: 8616 | duration: 10.0042 s
+user-id: 101 | command-id: 9234 | duration: 10.0017 s
+user-id: 102 | command-id: 9677 | duration: 10.0018 s
+user-id: 103 | command-id: 9735 | duration: 10.0023 s
